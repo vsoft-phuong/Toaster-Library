@@ -13,5 +13,5 @@ allprojects {
   
  Step 2. Add the dependency
  dependencies {
-	        implementation 'com.github.vsoft-phuong:Toaster-Library:Tag'
+	        implementation 'com.github.vsoft-phuong:Toaster-Library:1.0.2'
 	}
